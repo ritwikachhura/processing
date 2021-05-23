@@ -48,10 +48,10 @@ public class TryProcessing extends PApplet
               z +=8;
 
     }
-    private void drawCircle4() {
-        ellipse(w, heightByFive*4, diameter, diameter);
+           private void drawCircle4() {
+            ellipse(w, heightByFive*4, diameter, diameter);
 
-        w +=12;
+            w +=12;
 
     }
 
